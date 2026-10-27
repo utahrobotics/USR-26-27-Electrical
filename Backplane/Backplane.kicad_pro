@@ -529,20 +529,7 @@
       "version": 5
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "+12V": [
-        "Power"
-      ],
-      "+3V3": [
-        "Power"
-      ],
-      "+5V": [
-        "Power"
-      ],
-      "GND": [
-        "Power"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": [
       {
         "netclass": "Power",
@@ -690,29 +677,17 @@
     "top_level_sheets": [
       {
         "filename": "Backplane.kicad_sch",
-        "name": "Backplane",
-        "uuid": "9e6a424c-a74e-4b76-8df3-4897b7b46a26"
+        "name": "",
+        "uuid": "08e5dc1c-9c8f-49ba-b596-660ac01110de"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J1-5,L1,#PWR1-34,U1-4,C1-5,F1-7",
     "variants": []
   },
   "sheets": [
     [
-      "9e6a424c-a74e-4b76-8df3-4897b7b46a26",
-      "Backplane"
-    ],
-    [
-      "18f3ccfe-f0b9-4c91-bda1-7fc65e7bf325",
-      "Ready-1"
-    ],
-    [
-      "b9ac1a3e-6ca5-48c6-bb3e-62c43d35f355",
-      "Ready-2"
-    ],
-    [
-      "871bc298-688e-43f6-bbfd-64852a6e0586",
-      "Ready-3"
+      "08e5dc1c-9c8f-49ba-b596-660ac01110de",
+      ""
     ]
   ],
   "text_variables": {},

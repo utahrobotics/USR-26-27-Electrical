@@ -1,0 +1,247 @@
+(footprint "ANDERSON PP45 VERT. 2X1"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "U2"
+		(at 0 -15.1384 180)
+		(layer "F.SilkS")
+		(uuid "60d270d0-3ee6-46c4-b4f9-6c10edbfc011")
+		(effects
+			(font
+				(size 0.9144 0.9144)
+				(thickness 0.1524)
+			)
+			(justify right bottom)
+		)
+	)
+	(property "Value" "Anderson PP45 Vert. 2x1"
+		(at 0 -16.9164 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1be5b103-f1a9-4d57-b4a5-ab451bff10c2")
+		(effects
+			(font
+				(size 0.9144 0.9144)
+				(thickness 0.1524)
+			)
+			(justify right bottom)
+		)
+	)
+	(property "Datasheet" "https://www.andersonpower.com/content/dam/app/ecommerce/product-pdfs/pp/ds-pp1545.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b34a6c7-075b-412a-8010-dae7bc8a9d08")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Anderson connectors"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2be0261f-d398-4d6d-bf5f-7da0216c865c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Anderson"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23489ad8-ccb0-487a-9c26-008db35b5d54")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER PART" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "12ed1cd5-5f25-4b02-bf39-e45e0ab75719")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER PART" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d8f0a91-4945-4f80-b3cf-adbddcea8e1e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5d83b58b-c5ae-4745-a572-f32e3ab96ac1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LINK" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "69c1c83b-9b91-421f-9753-61b129726374")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "CONTRIBUTOR" "Utah Student Robotics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7029f051-f877-4e1b-8551-db59ce1dcc22")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SPICEPRE" "U"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aafd1b95-e348-4d47-a55d-491c78a8489e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SPICESYMBOLNAME" "Anderson PP45 Vert. 2x1"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8b1628b-e10c-44cd-bc2e-f5b28ad7fddd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "USR-PDB.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.95 -13.5001)
+		(end 3.95 -13.5001)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6984de0b-61e4-4d69-96d6-93ff676a0cac")
+	)
+	(fp_line
+		(start -3.95 2.7998)
+		(end -3.95 -13.5001)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f16f1263-6154-4195-9200-35abd9b9236c")
+	)
+	(fp_line
+		(start 3.95 -13.5001)
+		(end 3.95 2.7998)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c4133d31-66b6-430c-9b7f-b22a184dce96")
+	)
+	(fp_line
+		(start 3.95 2.7998)
+		(end -3.95 2.7998)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5e5bf29e-b5cf-4914-937a-0fae53fd7017")
+	)
+	(fp_rect
+		(start -3.25 1.5)
+		(end 3.25 -9.42)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "32cd2812-f82a-4c53-a4ad-8c8ab7a3fffc")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "c4aa0a22-d889-4975-b47c-3912518b4986")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 -7.92)
+		(size 6 2.5)
+		(drill oval 5.23 1.27)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "10d93f11-4f20-4016-8071-5d95f373c443")
+	)
+	(pad "2" thru_hole oval
+		(at 0 0)
+		(size 6 2.5)
+		(drill oval 5.23 1.27)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "fdfb909d-6a56-4d76-a30a-79ef084ff2e9")
+	)
+	(embedded_fonts no)
+)
