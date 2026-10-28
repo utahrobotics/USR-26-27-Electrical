@@ -3,12 +3,13 @@ The repository for Utah Student Robotics' 2026-2027 competition season. Modulari
 <p align="center">
 <img src="Media/IMG_0287.png" width="400" alt="USR Logo">
 </p>
+
 ## Folders
 As follows are the various folders in this repo and what they are used for.
 ### Backplane
 - The base-board of our entire robot.
 - We reuse existing industry-standard 8-bit "ISA" connectors, which are 62-pin slot-connectors that were most famously used as the expansion slot of choice for the first x86-based PCs produced by IBM.
-- See [Backplane](https://github.com/utahrobotics/USR-26-27-Electrical/tree/main/Backplane) for the **slot pinout!**
+- See [Backplane](Backplane/Backplane.md) for the **slot pinout!**
 ### Libraries
 - These are our KiCAD Symbol and Footprint libraries. Make sure that whatever Symbols and Footprints you use are placed into *these libraries!* We don't want a mess of unsorted library files!
 - Make sure to use relative paths! See the table below:
