@@ -1,6 +1,8 @@
 # USR-26-27-Electrical
 The repository for Utah Student Robotics' 2026-2027 competition season. Modularity went pretty well for us last year, so we're leaning even more into it this year!
-![[IMG_0287.png|219]]
+<p align="center">
+<img src="Media/IMG_0287.png" width="400" alt="USR Logo">
+</p>
 ## Folders
 As follows are the various folders in this repo and what they are used for.
 ### Backplane
