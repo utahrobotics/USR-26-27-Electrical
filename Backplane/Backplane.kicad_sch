@@ -8226,6 +8226,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 219.71) (xy 199.39 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af7584cf-e862-4476-8004-4641afc8cc5e")
+	)
+	(wire
+		(pts
 			(xy 125.73 88.9) (xy 133.35 88.9)
 		)
 		(stroke
@@ -9414,16 +9424,6 @@
 		)
 		(uuid "03cabf6c-f746-4c26-a1d7-ec0c27aa4796")
 	)
-	(label "24V"
-		(at 180.34 127 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "08dc99b5-4743-4b64-8169-0d898aad1aa5")
-	)
 	(label "GND"
 		(at 88.9 76.2 0)
 		(effects
@@ -9463,16 +9463,6 @@
 			(justify left bottom)
 		)
 		(uuid "09e17038-47b6-4686-83ba-968e4e2d2bc3")
-	)
-	(label "24V"
-		(at 129.54 129.54 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0cd2a73c-be21-4993-81ed-020b1c1cf8cf")
 	)
 	(label "A5"
 		(at 181.61 81.28 0)
@@ -9523,16 +9513,6 @@
 			(justify right bottom)
 		)
 		(uuid "0f330409-a3d6-45f7-8417-5cd38dea221b")
-	)
-	(label "24V"
-		(at 40.64 129.54 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "122e9c7d-3222-4d66-9f7f-fbafca333340")
 	)
 	(label "D20"
 		(at 40.64 119.38 180)
@@ -9744,16 +9724,6 @@
 		)
 		(uuid "25b95c1f-ec80-4ac2-b5bc-8a35285ff7ef")
 	)
-	(label "24V"
-		(at 218.44 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "26b904eb-7b0f-4c87-8f33-1efbc474bceb")
-	)
 	(label "D2"
 		(at 307.34 66.04 180)
 		(effects
@@ -9864,16 +9834,6 @@
 		)
 		(uuid "34684671-a4a4-423c-8d98-761b034e88c4")
 	)
-	(label "24V"
-		(at 307.34 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3578d553-0616-4d20-8ec9-fc5484f7fc1e")
-	)
 	(label "D6"
 		(at 129.54 78.74 180)
 		(effects
@@ -9913,36 +9873,6 @@
 			(justify right bottom)
 		)
 		(uuid "39d519eb-c1f3-47a0-8d8f-6f021f79a75c")
-	)
-	(label "24V"
-		(at 358.14 129.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3a09ce90-f04b-435a-9a67-0d115f023d51")
-	)
-	(label "24V"
-		(at 40.64 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3a4467bc-7e9b-4852-baac-36864feff851")
-	)
-	(label "24V"
-		(at 269.24 127 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3aaac2e6-3ef3-43b0-baea-c626e4bffca6")
 	)
 	(label "D4"
 		(at 307.34 71.12 180)
@@ -10384,16 +10314,6 @@
 		)
 		(uuid "61bef69c-82d6-48ff-8b53-b58185466418")
 	)
-	(label "24V"
-		(at 180.34 129.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "61d46855-365d-4058-9deb-a7e6570f4604")
-	)
 	(label "D11"
 		(at 40.64 91.44 180)
 		(effects
@@ -10523,16 +10443,6 @@
 			(justify right bottom)
 		)
 		(uuid "6de72a4b-6f5b-4921-9494-497630ac112f")
-	)
-	(label "24V"
-		(at 91.44 127 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6e2f428b-d7f3-48fc-81b7-2e579112b34b")
 	)
 	(label "D7"
 		(at 40.64 81.28 180)
@@ -10664,16 +10574,6 @@
 		)
 		(uuid "7b5f51a3-c334-4bda-b090-d4ca2af720af")
 	)
-	(label "24V"
-		(at 91.44 129.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7d02c82a-bcd2-494a-86e7-3c003ef7b5af")
-	)
 	(label "SPI-A1"
 		(at 266.7 55.88 0)
 		(effects
@@ -10693,16 +10593,6 @@
 			(justify right bottom)
 		)
 		(uuid "7ee98d39-6131-4fef-b873-78859e90fde4")
-	)
-	(label "24V"
-		(at 358.14 127 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7f6f0c86-c6f7-4ccf-b940-884bde76f086")
 	)
 	(label "GND"
 		(at 132.08 93.98 180)
@@ -11164,16 +11054,6 @@
 		)
 		(uuid "a8b920a9-8e96-43f0-bfb2-a6078b649cbb")
 	)
-	(label "24V"
-		(at 307.34 129.54 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a95537fb-9a75-4d87-8e9c-726c11dda398")
-	)
 	(label "A4"
 		(at 270.51 78.74 0)
 		(effects
@@ -11433,16 +11313,6 @@
 			(justify left bottom)
 		)
 		(uuid "c168a54a-eb18-435c-b595-c2238ca917b7")
-	)
-	(label "24V"
-		(at 129.54 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c34acec7-7538-4836-948a-8df0adfad63c")
 	)
 	(label "A5"
 		(at 270.51 81.28 0)
@@ -11834,16 +11704,6 @@
 		)
 		(uuid "e7f3416c-27c4-49ac-b0d1-43047046ff5b")
 	)
-	(label "24V"
-		(at 269.24 129.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e88c0372-3711-406e-b703-8976fe1dbce2")
-	)
 	(label "I2C-SCLK"
 		(at 132.08 53.34 180)
 		(effects
@@ -11853,16 +11713,6 @@
 			(justify right bottom)
 		)
 		(uuid "ee2387d7-5e01-48c3-8786-a9fc109ffe43")
-	)
-	(label "24V"
-		(at 218.44 129.54 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "efcdd53a-4b7f-4023-990b-88c34efbc191")
 	)
 	(label "D18"
 		(at 307.34 114.3 180)
@@ -14309,6 +14159,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+24V")
+		(at 199.39 219.71 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5bb92974-1c17-4ed3-90f8-d35da59b0a2c")
+		(property "Reference" "#PWR027"
+			(at 199.39 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+24V"
+			(at 199.39 214.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+24V\""
+			(at 199.39 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2842840c-6d3a-427f-88ef-03465b67057e")
+		)
+		(instances
+			(project "Backplane"
+				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 199.39 250.19 0)
 		(unit 1)
@@ -16690,84 +16618,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+24V")
-		(at 199.39 236.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b3bd49b6-d2e4-40bb-8980-7d6163c83418")
-		(property "Reference" "#PWR027"
-			(at 199.39 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+24V"
-			(at 199.39 231.14 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 199.39 236.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 199.39 236.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 199.39 236.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "97b4f3d5-d374-4788-a62a-63f1483e69c3")
-		)
-		(instances
-			(project "Backplane"
-				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
-					(reference "#PWR027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "Fuse_3")
 		(lib_id "USR-26-27:Fuse")
 		(at 114.3 110.49 270)
@@ -17165,6 +17015,148 @@
 			(project "Backplane"
 				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "USR-26-27:Fuse")
+		(at 199.39 228.6 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "be89e37f-5009-409a-9038-05779c7b5ce5")
+		(property "Reference" "F8"
+			(at 196.342 226.822 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fuse Holder: 30A"
+			(at 203.2 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "USR-26-27:FUSE_HOLDER_3557-15"
+			(at 199.39 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 199.39 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PARTREV" "D"
+			(at 199.39 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendation"
+			(at 199.39 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SNAPEDA_PN" "3557-2"
+			(at 199.39 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "7.37mm"
+			(at 199.39 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Keystone"
+			(at 199.39 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "2"
+			(uuid "9c319880-a4d4-44fa-8be3-bf2a2a69e6b8")
+		)
+		(pin "1"
+			(uuid "df17c0e6-7f4a-4b7a-a858-f8e7cfed8f9f")
+		)
+		(instances
+			(project "Backplane"
+				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
+					(reference "F8")
 					(unit 1)
 				)
 			)
