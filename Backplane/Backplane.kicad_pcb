@@ -121,7 +121,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -11006,6 +11005,82 @@
 			(justify left bottom)
 		)
 	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "49b9e11a-bf29-46c4-91aa-1e2e88362d4e")
+		(pts
+			(xy 236.22 27.94) (xy 71.12 27.94)
+		)
+		(height -10.16)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "6500"
+			(at 153.67 16.63 0)
+			(layer "Dwgs.User")
+			(uuid "49b9e11a-bf29-46c4-91aa-1e2e88362d4e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "c9403f2e-8526-4575-b6c9-63f872c63cff")
+		(pts
+			(xy 233.68 157.48) (xy 233.68 25.4)
+		)
+		(height 19.05)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "5200"
+			(at 251.58 91.44 90)
+			(layer "Dwgs.User")
+			(uuid "c9403f2e-8526-4575-b6c9-63f872c63cff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
 	(segment
 		(start 111.76 96.52)
 		(end 111.76 91.44)
@@ -20061,6 +20136,14 @@
 		(uuid "7570db84-46cb-418c-a23d-010c0fc92c98")
 	)
 	(segment
+		(start 163.445 140.54)
+		(end 163.445 143.94)
+		(width 1.778)
+		(layer "F.Cu")
+		(net "Net-(F4-Pad2)")
+		(uuid "8500d803-8aee-4dd9-87db-cad45ff97685")
+	)
+	(segment
 		(start 162.56 144.78)
 		(end 162.56 141.425)
 		(width 1.778)
@@ -20139,14 +20222,6 @@
 		(layer "B.Cu")
 		(net "Net-(F4-Pad2)")
 		(uuid "60312970-ebc2-44b6-a704-cdd299cf5486")
-	)
-	(segment
-		(start 163.445 140.54)
-		(end 163.445 143.94)
-		(width 1.778)
-		(layer "B.Cu")
-		(net "Net-(F4-Pad2)")
-		(uuid "78cf3bc2-8853-4dd1-b84b-ca707577c35e")
 	)
 	(segment
 		(start 163.83 144.78)

@@ -12,6 +12,184 @@
 		(comment 1 "Vincent Banh")
 	)
 	(lib_symbols
+		(symbol "Device:C_Polarized_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.254 1.778 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Polarized_Small"
+				(at 0.254 -2.032 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Polarized capacitor, small symbol"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C_Polarized_Small_0_1"
+				(rectangle
+					(start -1.524 0.6858)
+					(end 1.524 0.3048)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.524 -0.3048)
+					(end 1.524 -0.6858)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.524) (xy -0.762 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 1.27) (xy -1.016 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_Polarized_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 1.8542)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 1.8542)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -3799,6 +3977,12 @@
 		)
 	)
 	(junction
+		(at 193.04 184.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0313b911-fda9-4694-b311-488c106fe43b")
+	)
+	(junction
 		(at 132.08 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3889,6 +4073,12 @@
 		(uuid "42f9ec31-414b-4557-841f-a54b21ba7f48")
 	)
 	(junction
+		(at 193.04 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "45be8730-8d06-4727-86f1-b44339836496")
+	)
+	(junction
 		(at 185.42 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3905,6 +4095,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4bf8faec-f750-4740-9685-a76a9ee69832")
+	)
+	(junction
+		(at 220.98 184.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d2fccce-f46a-49aa-9122-79381ce11129")
 	)
 	(junction
 		(at 132.08 111.76)
@@ -3953,6 +4149,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "67ba380e-a8c5-4e91-b6ef-4b4b08fd66a2")
+	)
+	(junction
+		(at 248.92 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6aa5260f-fac5-4720-aef6-ea1f1529a874")
 	)
 	(junction
 		(at 355.6 124.46)
@@ -4039,10 +4241,22 @@
 		(uuid "c634e93d-2ea9-4689-b26e-66855a75d06a")
 	)
 	(junction
+		(at 220.98 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d35adc2c-1c18-425a-9415-7134bbcae621")
+	)
+	(junction
 		(at 132.08 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4be9478-f890-4bd5-9f6c-80eef66cac19")
+	)
+	(junction
+		(at 248.92 184.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d4de314e-f180-4531-bcee-5166d5ba3f17")
 	)
 	(junction
 		(at 355.6 101.6)
@@ -13846,6 +14060,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 193.04 186.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "52eb64eb-4939-4cfa-b0da-975425b503ca")
+		(property "Reference" "C9"
+			(at 187.706 184.658 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4700uF 35V"
+			(at 179.324 187.452 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor, small symbol"
+			(at 193.04 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "47dc7173-6224-4ef4-b61b-1f7ffdf9e00a")
+		)
+		(pin "1"
+			(uuid "5b1ba18c-9bf7-458c-8ee1-f62355c01b77")
+		)
+		(instances
+			(project "Backplane"
+				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Regulator_Switching:AP63205WU")
 		(at 218.44 242.57 0)
 		(unit 1)
@@ -15207,6 +15502,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 115.57 139.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7179cccd-a26f-4379-827f-db7833bcb118")
+		(property "Reference" "C6"
+			(at 118.11 137.8838 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4700uF 35V"
+			(at 118.11 140.4238 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 115.57 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor, small symbol"
+			(at 115.57 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5968bb12-644c-4c28-a83a-f3dd29ab786f")
+		)
+		(pin "1"
+			(uuid "f3e7e73e-e68b-44f0-bdde-53df5082c4b5")
+		)
+		(instances
+			(project "Backplane"
+				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 102.87 118.11 0)
 		(unit 1)
@@ -15984,6 +16361,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 204.47 139.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "85ca3248-68ce-4ff7-a3b9-646f78bed66b")
+		(property "Reference" "C7"
+			(at 207.01 137.8838 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4700uF 35V"
+			(at 207.01 140.4238 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor, small symbol"
+			(at 204.47 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "052f5306-660b-43fe-9c75-0c83bcda264d")
+		)
+		(pin "1"
+			(uuid "e26b306d-a601-49d2-b2c3-2600364dbac1")
+		)
+		(instances
+			(project "Backplane"
+				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+24V")
 		(at 220.98 168.91 0)
 		(unit 1)
@@ -16311,6 +16770,88 @@
 			(project "Backplane"
 				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
 					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 293.37 139.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a3406473-b395-4723-a9b8-f1b6b4570cfe")
+		(property "Reference" "C8"
+			(at 295.91 137.8838 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4700uF 35V"
+			(at 295.91 140.4238 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 293.37 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor, small symbol"
+			(at 293.37 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dc8b39f6-ea94-4bba-8208-7e81839fe36c")
+		)
+		(pin "1"
+			(uuid "3708cfd2-ac89-4524-972f-c0028e8f17ec")
+		)
+		(instances
+			(project "Backplane"
+				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -17579,6 +18120,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 26.67 139.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cf0e84ac-8c0c-428a-b928-74455783bba5")
+		(property "Reference" "C5"
+			(at 29.21 137.8838 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4700uF 35V"
+			(at 29.21 140.4238 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor, small symbol"
+			(at 26.67 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "302f0617-aae1-4600-bdd0-a254f1b611f8")
+		)
+		(pin "1"
+			(uuid "36c86e54-9756-4b39-b2aa-ff18ea39a721")
+		)
+		(instances
+			(project "Backplane"
+				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 213.36 222.25 0)
 		(unit 1)
@@ -17651,6 +18274,87 @@
 			(project "Backplane"
 				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
 					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 220.98 186.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e41282d9-0c85-4f1d-be98-5af408ba0250")
+		(property "Reference" "C10"
+			(at 215.646 184.658 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4700uF 35V"
+			(at 207.264 187.452 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 220.98 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor, small symbol"
+			(at 220.98 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "64931a1c-f79c-491a-ada0-2d963512e6a6")
+		)
+		(pin "1"
+			(uuid "3c28ef5e-9536-44b7-bf8c-0c3b89914873")
+		)
+		(instances
+			(project "Backplane"
+				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -17807,6 +18511,87 @@
 			(project "Backplane"
 				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 248.92 186.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f5135c85-62f9-4bfb-bdd3-be3b2479de97")
+		(property "Reference" "C11"
+			(at 243.586 184.658 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4700uF 35V"
+			(at 235.204 187.452 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 248.92 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 248.92 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor, small symbol"
+			(at 248.92 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a46592f0-9f56-4f0a-b34d-9a2b10c75174")
+		)
+		(pin "1"
+			(uuid "2d143ef4-11c1-4f8a-a8af-443a1d722fb1")
+		)
+		(instances
+			(project "Backplane"
+				(path "/08e5dc1c-9c8f-49ba-b596-660ac01110de"
+					(reference "C11")
 					(unit 1)
 				)
 			)
