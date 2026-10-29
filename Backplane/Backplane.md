@@ -7,4 +7,9 @@
 - Integrated down-regulation of 24v to 5v for logic-level power
 
 ## Slot Pinout
-![[USR-62P-Reconfigurable.svg]]![[USR-62P-BP-SLOT.png|280]]![[USR-62P-BP-EDGE-F.Cu.png|319]]![[USR-62P-BP-EDGE-B.Cu.png|319]]
+<p align="center">
+<img src="Media/USR-62P-Reconfigurable.svg" width="200" alt="Schematic symbol for slot">
+<img src="Media/USR-62P-BP-SLOT.png" width="200" alt="Slot footprint">
+<img src="Media/USR-62P-BP-EDGE-F.Cu.png" width="200" alt="Frontside copper for edge connector">
+<img src="Media/USR-62P-BP-EDGE-B.Cu.png" width="200" alt="Backside copper for edge connector">
+</p>

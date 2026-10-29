@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Backplane/Backplane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Backplane"
             }
           }
         ]
@@ -190,6 +190,8 @@
   },
   "active": "4a3099eac9071dd9",
   "lastOpenFiles": [
+    "README.md",
+    "Backplane/Backplane.md",
     "Backplane/Backplane.kicad_pcb.kicad-save-6336-4",
     "Backplane/Backplane.kicad_pcb.kicad-save-6336-1",
     "Backplane/Backplane.kicad_pcb.kicad-save-16592-21",
@@ -200,10 +202,7 @@
     "Backplane/Backplane.kicad_sch.kicad-save-16592-12",
     "Backplane/Backplane.kicad_sch.kicad-save-16592-11",
     "Backplane/Backplane.kicad_pcb.kicad-save-16592-9",
-    "Backplane/Backplane.kicad_pcb.kicad-save-16592-6",
-    "Backplane/Backplane.md",
     "Media/USR-62P-BP-EDGE-F.Cu.png",
-    "README.md",
     "Media/USR-62P-BP-SLOT.png",
     "Media/USR-62P-BP-EDGE-B.Cu.png",
     "Media/USR-62P-Reconfigurable.svg",
