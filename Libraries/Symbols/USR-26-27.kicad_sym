@@ -1245,7 +1245,7 @@
 			(pin passive line
 				(at -21.59 -30.48 0)
 				(length 2.54)
-				(name "5V"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1263,7 +1263,7 @@
 			(pin passive line
 				(at -21.59 -33.02 0)
 				(length 2.54)
-				(name "GND"
+				(name "24V"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1353,7 +1353,7 @@
 			(pin passive line
 				(at 21.59 -33.02 180)
 				(length 2.54)
-				(name "GND"
+				(name "24V"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1371,7 +1371,7 @@
 			(pin passive line
 				(at 21.59 -30.48 180)
 				(length 2.54)
-				(name "5V"
+				(name "24V"
 					(effects
 						(font
 							(size 1.27 1.27)
