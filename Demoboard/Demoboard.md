@@ -1,0 +1,3 @@
+- Single-board Soldering Trainer PCB
+- Through-hole down to 0402-footprint SMD components
+- Functional design for controlling LEDs or making add-ons via the pinheader

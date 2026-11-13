@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "USR-26-27") (type "KiCad") (uri "${KIPRJMOD}/../Libraries/Footprints/USR-26-27.pretty") (options "") (descr ""))
+)
