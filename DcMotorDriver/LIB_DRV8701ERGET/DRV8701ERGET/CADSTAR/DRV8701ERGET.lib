@@ -1,0 +1,18 @@
+.DRV8701ERGET :1 ;Brushed DC Motor Gate Driver (PH/EN, PWM Ctrl)
+QFN50P400X400X100-25N-D
+*STM IC
+*NGS
+*PLB 1="VM" 2="VCP" 3="CPH" 4="CPL" 5="GND_1" 6="VREF" 7="AVDD" 8="DVDD" 9="NFAULT" 10="SNSOUT" 11="SO" 12="IDRIVE" 13="NSLEEP" 14="EN" 15="PH" 16="GND_2" 17="GH1" 18="SH1" 19="GL1" 20="SN" 21="SP" 22="GL2" 23="SH2" 24="GH2" 25="GND_3"
+*MXP 25
+*DFN DRV8701ERGET
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV8701ERGET)
+~!Mouser Part Number (595-DRV8701ERGET)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8701ERGET?qs=UfUFg%2FkmHHHuRfm8VUjFxQ%3D%3D)
+~!Arrow Part Number (DRV8701ERGET)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/drv8701erget/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/gpn/drv8701)
+~!Height (1mm)
+~!3D_Model (DRV8701ERGET)
+DRV8701ERGET
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 
