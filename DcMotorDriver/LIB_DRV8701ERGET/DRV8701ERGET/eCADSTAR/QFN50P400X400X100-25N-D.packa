@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DRV8701ERGET"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-08-11:59:00)
+    (mountForm default
+        (footprintRef "QFN50P400X400X100-25N-D")
+        (spec "System")
+    )
+)

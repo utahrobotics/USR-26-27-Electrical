@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPH1R403NL_L1Q"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-18-15:24:25)
+    (mountForm default
+        (footprintRef "TPH1R403NLL1Q")
+        (spec "System")
+    )
+)

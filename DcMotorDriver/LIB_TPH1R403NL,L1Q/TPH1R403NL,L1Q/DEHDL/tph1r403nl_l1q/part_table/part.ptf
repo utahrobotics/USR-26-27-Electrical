@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPH1R403NL_L1Q'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Toshiba", "TPH1R403NL,L1Q" (!) = "", "TPH1R403NLL1Q", "Other", "757-TPH1R403NLL1Q", "https://www.mouser.co.uk/ProductDetail/Toshiba/TPH1R403NLL1Q?qs=HVbQlW5zcXWxPmEVdb2K1w%3D%3D", "TPH1R403NL,L1Q", "https://www.arrow.com/en/products/tph1r403nll1q/toshiba?utm_currency=USD&region=nac", "N-Channel 30 V 60A (Ta) 1.6W (Ta), 64W (Tc) Surface Mount 8-SOP Advance (5x5)", "https://www.mouser.in/ProductDetail/Toshiba/TPH1R403NLL1Q?qs=HVbQlW5zcXWxPmEVdb2K1w%3D%3D&srsltid=AfmBOoqRHMGlSDzUAlTxkWXR9G5-gdRWGcO8wnP1ZC8y2IEoxCRQZ0fW", "1 mm"
+END_PART
+
+END.
