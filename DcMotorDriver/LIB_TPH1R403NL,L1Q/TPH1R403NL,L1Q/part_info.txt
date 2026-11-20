@@ -1,9 +1,0 @@
-Manufacturer=Toshiba
-PartNumber=TPH1R403NL,L1Q
-PartCategory=MOSFET (N-Channel)
-PackageCategory=Other
-PinCount=9
-Version=1.2
-Released=2020-03-18 15:24:25
-Downloaded=2026-11-20 06:10:02
-3D=Y

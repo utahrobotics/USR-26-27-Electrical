@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TPH1R403NL,L1Q
-D N-Channel 30 V 60A (Ta) 1.6W (Ta), 64W (Tc) Surface Mount 8-SOP Advance (5x5)
-K
-F https://www.mouser.in/ProductDetail/Toshiba/TPH1R403NLL1Q?qs=HVbQlW5zcXWxPmEVdb2K1w%3D%3D&srsltid=AfmBOoqRHMGlSDzUAlTxkWXR9G5-gdRWGcO8wnP1ZC8y2IEoxCRQZ0fW
-$ENDCMP
-#
-#End Doc Library

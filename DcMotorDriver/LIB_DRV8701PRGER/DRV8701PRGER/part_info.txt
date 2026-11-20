@@ -1,9 +1,0 @@
-Manufacturer=Texas Instruments
-PartNumber=DRV8701PRGER
-PartCategory=Integrated Circuit
-PackageCategory=Quad Flat No-Lead
-PinCount=25
-Version=2.1
-Released=2019-02-12 06:46:22
-Downloaded=2026-11-20 21:16:09
-3D=Y

@@ -1,6 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "Transistor") (type "KiCad") (uri "${KIPRJMOD}/LIB_TPH1R403NL,L1Q/TPH1R403NL,L1Q/KiCad") (options "") (descr ""))
-	(lib (name "Motor Driver") (type "KiCad") (uri "${KIPRJMOD}/LIB_DRV8701ERGET/DRV8701ERGET/KiCad") (options "") (descr ""))
-	(lib (name "Actual Motor Driver") (type "KiCad") (uri "${KIPRJMOD}/LIB_DRV8701PRGER/DRV8701PRGER/KiCad") (options "") (descr ""))
-)
